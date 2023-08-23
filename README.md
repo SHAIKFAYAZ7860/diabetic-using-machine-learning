@@ -1,1 +1,1 @@
-# diabetic-using-machine-learning
+# disease diagnosis using data science
